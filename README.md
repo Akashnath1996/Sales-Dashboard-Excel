@@ -47,3 +47,25 @@ Some executives achieved less than 60% of their targets, showing areas to focus 
 Pie chart shows fairly equal contribution among sales executives.
 
 Line chart highlights executives falling short of targets.
+
+🔹 Screenshot
+
+<img width="1300" height="538" alt="DASHBOARD_EXCEL" src="https://github.com/user-attachments/assets/c8d2df17-d290-45ab-b366-3c5c1140af21" />
+
+
+🔹 Conclusion
+
+This project demonstrates how Excel can be used to create a professional business dashboard for sales performance analysis. It highlights the value of data visualization, interactivity, and reporting in making better business decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
